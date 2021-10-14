@@ -78,6 +78,7 @@
 
 #bar1 {
 /*   width: 20px !important; */
+  padding-top:30px;
   position: fixed;
   float: left;
 }
