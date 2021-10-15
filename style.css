@@ -264,7 +264,10 @@ button a:hover {
   color: white;
   background-color: #000 !important;
 }
-
+.use-get i{
+  padding-left:20px;
+} 
+  
 /* use color area */
 #freque1 {
   font-size: 100px;
