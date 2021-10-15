@@ -517,3 +517,7 @@ border-left: solid;
   color: white !important;
 }
 
+#z-barwins{
+  z-index:222;
+}
+
